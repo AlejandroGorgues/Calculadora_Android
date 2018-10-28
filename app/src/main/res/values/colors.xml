@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#4096ff</color>
+    <color name="colorResultado">#b6e4ea</color>
+    <color name="colorNumeroResultado">#0022fc</color>
+    <color name="colorMemoria">#474aea</color>
+    <color name="colorClean">#474aea</color>
+    <color name="colorNumero">#c1c1c1</color>
+    <color name="colorOpAddicionales">#ff8127</color>
+    <color name="colorApagado">#40c3ff</color>
+    <color name="colorOperadores">#f53c24</color>
+    <color name="colorNegro">#000000</color>
+    <color name="colorGrisClaro">#ececec</color>
+</resources>
